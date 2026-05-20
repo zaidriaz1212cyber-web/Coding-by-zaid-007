@@ -1,73 +1,79 @@
-# Hi there, I'm Zaid! 👋 (Coding-by-zaid-007)
+<div align="center">
 
-<p align="left">
-  <img src="https://shields.io" alt="Status"/>
-  <img src="https://shields.io" alt="Role"/>
-</p>
+# ⚡ ZAID RIAZ ⚡
+### 🚀 Full-Stack MERN & Web3 Developer 
 
-### 🚀 About Me
-- 💻 **Full Stack Developer** specializing in modern web applications.
-- 🛠️ Currently turning coffee into clean, scalable JavaScript and TypeScript code.
-- 💡 Passionate about building intelligent dashboards, React-based web apps, and exploring Blockchain/Web3 ecosystems.
-- ⚡ **Fun Fact:** I debug in my sleep and can resolve complex UI state issues before my morning tea.
+  <p align="center">
+    <img src="https://shields.io" alt="Status"/>
+    <img src="https://shields.io" alt="Stack"/>
+    <img src="https://shields.io" alt="Focus"/>
+  </p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+<img src="https://vercel.app" width="100%"/>
 
-#### 🌐 Frontend Development
-<p align="left">
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://worldvectorlogo.com" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="tailwindcss" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-#### ⚙️ Backend & Database (MERN)
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
-
-#### ⛓️ Future Horizons & Infrastructure
-<p align="left">
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="solidity" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/>
-  </a>
-</p>
+### 🪐 About My Journey
+- 💻 **MERN Expert:** Crafting pixel-perfect dashboards and scalable architectures using MongoDB, Express, React, and Node.js.
+- ⛓️ **Web3 Enthusiast:** Designing decentralized systems, smart contracts (Solidity), and custom token ecosystems.
+- ⚡ **Goal:** Building production-ready web and mobile apps that scale to thousands of active users.
+- 🧠 **Mindset:** *"Clean code always looks like it was written by someone who cares."*
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tech Arsenal
 
-<p align="left">
-  <img src="https://vercel.app" alt="Zaid's GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Langs" width="48%"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Frontend</b><br/><br/>
+      <img src="https://skillicons.dev" />
+    </td>
+    <td align="center" width="25%">
+      <b>Backend & DB</b><br/><br/>
+      <img src="https://skillicons.dev" />
+    </td>
+    <td align="center" width="25%">
+      <b>Web3 & Tools</b><br/><br/>
+      <img src="https://skillicons.dev" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📬 Connect With Me
-- 📧 Email: **zaidriaz1212cyber@gmail.com**
-- 💼 Open for Full-Time positions, Remote gigs, and exciting Web3 Collaborations!
+### 📊 Real-Time GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://vercel.app" width="400px"/>
+      </td>
+      <td>
+        <img src="https://vercel.app" width="360px"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  <img src="https://herokuapp.com" width="100%" />
+</div>
+
+---
+
+### 🐍 The Code Snake Game
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📬 Let's Connect & Collaborate</h3>
+  <a href="mailto:zaidriaz1212cyber@gmail.com">
+    <img src="https://shields.io" />
+  </a>
+</div>
