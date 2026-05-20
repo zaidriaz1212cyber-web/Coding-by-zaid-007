@@ -1,79 +1,46 @@
 <div align="center">
 
-# ⚡ ZAID RIAZ ⚡
-### 🚀 Full-Stack MERN & Web3 Developer 
+# Hey 👋 I'm Zaid Riaz
 
-  <p align="center">
-    <img src="https://shields.io" alt="Status"/>
-    <img src="https://shields.io" alt="Stack"/>
-    <img src="https://shields.io" alt="Focus"/>
-  </p>
+## ⚡ ZAID'S DIGITAL UNIVERSE ⚡
 
----
+### 🚀 FULL STACK WEB DEVELOPER & WEB3 ENGINEER
 
-<img src="https://vercel.app" width="100%"/>
+<br/>
 
-</div>
+<!-- Premium Custom Gradient Banner Card -->
+<img src="https://vercel.app" width="100%" alt="Zaid Banner" />
 
-### 🪐 About My Journey
-- 💻 **MERN Expert:** Crafting pixel-perfect dashboards and scalable architectures using MongoDB, Express, React, and Node.js.
-- ⛓️ **Web3 Enthusiast:** Designing decentralized systems, smart contracts (Solidity), and custom token ecosystems.
-- ⚡ **Goal:** Building production-ready web and mobile apps that scale to thousands of active users.
-- 🧠 **Mindset:** *"Clean code always looks like it was written by someone who cares."*
+<br/><br/>
 
----
+<!-- Enter Portfolio Dynamic Button Link -->
+<a href="mailto:zaidriaz1212cyber@gmail.com" target="_blank">
+  <img src="https://shields.io" alt="Portfolio Button" />
+</a>
 
-### 🧰 Tech Arsenal
+<br/><br/>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Frontend</b><br/><br/>
-      <img src="https://skillicons.dev" />
-    </td>
-    <td align="center" width="25%">
-      <b>Backend & DB</b><br/><br/>
-      <img src="https://skillicons.dev" />
-    </td>
-    <td align="center" width="25%">
-      <b>Web3 & Tools</b><br/><br/>
-      <img src="https://skillicons.dev" />
-    </td>
-  </tr>
-</table>
+<!-- Custom Developer Achievement Trophies Grid -->
+### 🏆 MY GITHUB TROPHIES
+
+[![GitHub Trophies](https://vercel.app)](https://github.com)
+
+<br/>
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### 🧰 TECH ARSENAL
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://vercel.app" width="400px"/>
-      </td>
-      <td>
-        <img src="https://vercel.app" width="360px"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  <img src="https://herokuapp.com" width="100%" />
+<!-- Grid Icons like the bottom of the screenshot -->
+<p align="center">
+  <img src="https://skillicons.dev" />
+</p>
+
 </div>
 
 ---
 
-### 🐍 The Code Snake Game
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <h3>📬 Let's Connect & Collaborate</h3>
-  <a href="mailto:zaidriaz1212cyber@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-</div>
+### 🧠 About My Universe
+- 💻 **Full-Stack Master:** Crafting elegant digital experiences using MongoDB, Express, React, and Node.js.
+- ⛓️ **Web3 Creator:** Exploring smart contract layers, cryptography setups, and digital token architectures.
+- ⚡ **Fun Fact:** I code clean layout elements that compile properly in dark and light view modes instantly.
